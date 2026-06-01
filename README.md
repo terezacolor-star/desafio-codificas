@@ -93,6 +93,7 @@ print(contador)
  ChatGPT
  
 **Como a IA te ajudou?**
+
 Utilizei o ChatGPT como apoio para compreender os enunciados dos problemas e aprender a lógica necessária para resolvê-los. Em vez de apenas receber a resposta pronta, procurei entender cada etapa da resolução. Fiz anotações no meu caderno, pesquisei termos no Google e também acessei o Codeforces para interpretar melhor os exercícios e compreender o significado de cada comando utilizado.
 
 Durante o desenvolvimento, a IA me auxiliou na interpretação dos problemas, na construção da lógica de programação em Python, na correção de erros e na utilização do Visual Studio Code e do GitHub. Além disso, recebi explicações detalhadas sobre os conceitos utilizados, o que me ajudou a entender melhor o funcionamento dos códigos.
