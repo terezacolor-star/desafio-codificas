@@ -103,6 +103,25 @@ Percebi que, com a prática, fui ganhando mais confiança. No primeiro problema 
 ---
  
 ## Reflexão
+
+### Dificuldades encontradas
+
+A principal dificuldade que encontrei foi a interpretação dos problemas. Em alguns momentos, precisei ler o enunciado várias vezes para compreender exatamente o que estava sendo pedido e qual lógica deveria ser utilizada para chegar à solução.
+
+No segundo problema, essa dificuldade ficou ainda mais evidente, pois foi necessário entender o significado dos valores apresentados e como eles influenciavam na decisão final da equipe. Percebi que, muitas vezes, o desafio não está apenas em escrever o código, mas em interpretar corretamente a situação antes de programar.
+
+Em relação ao GitHub e ao Visual Studio Code, encontrei algumas dúvidas iniciais por falta de prática, mas consegui aprender rapidamente os procedimentos necessários. Com o uso e a repetição das atividades, fui me sentindo mais confortável com as ferramentas.
+
+### O que aprendi
+
+Com este desafio, aprendi muito mais do que apenas resolver dois problemas de programação. Aprendi conceitos básicos de Python, como entrada de dados, estruturas de repetição, condicionais, contadores e manipulação de textos. No primeiro problema, aprendi sobre o uso do comando `len()` para verificar o tamanho das palavras e sobre a manipulação de strings. No segundo problema, aprendi a utilizar contadores e a trabalhar com lógica baseada em condições.
+
+Também aprendi a utilizar ferramentas importantes para quem está estudando tecnologia, como o Visual Studio Code e o GitHub. Foi a primeira vez que organizei arquivos de programação em um repositório, editei um README.md e utilizei o terminal para executar códigos.
+
+Além disso, percebi a importância da Inteligência Artificial como ferramenta de apoio ao aprendizado. Em vez de apenas buscar respostas prontas, utilizei a IA para compreender conceitos, esclarecer dúvidas e aprofundar meu entendimento sobre os problemas propostos.
+
+O principal aprendizado foi entender que a programação exige raciocínio lógico, interpretação e prática constante. Cada exercício resolvido aumentou minha confiança e mostrou que o aprendizado acontece passo a passo.
+
 ### Como foi a experiência?
 
 A experiência foi extremamente enriquecedora e marcou meu primeiro contato com diversas ferramentas e plataformas utilizadas na área de tecnologia. Antes de participar da mentoria Codificadas – Além do Código, eu nunca havia utilizado o GitHub, não conhecia o Codeforces e também não tinha experiência prática com programação.
@@ -117,24 +136,6 @@ Finalizo esta experiência com mais confiança e motivação para continuar estu
 
 
 
-### Dificuldades encontradas
-
-A principal dificuldade que encontrei foi a interpretação dos problemas. Em alguns momentos, precisei ler o enunciado várias vezes para compreender exatamente o que estava sendo pedido e qual lógica deveria ser utilizada para chegar à solução.
-
-No segundo problema, essa dificuldade ficou ainda mais evidente, pois foi necessário entender o significado dos valores apresentados e como eles influenciavam na decisão final da equipe. Percebi que, muitas vezes, o desafio não está apenas em escrever o código, mas em interpretar corretamente a situação antes de programar.
-
-Em relação ao GitHub e ao Visual Studio Code, encontrei algumas dúvidas iniciais por falta de prática, mas consegui aprender rapidamente os procedimentos necessários. Com o uso e a repetição das atividades, fui me sentindo mais confortável com as ferramentas.
 
  
- 
-### O que aprendi
-
-Com este desafio, aprendi muito mais do que apenas resolver dois problemas de programação. Aprendi conceitos básicos de Python, como entrada de dados, estruturas de repetição, condicionais, contadores e manipulação de textos. No primeiro problema, aprendi sobre o uso do comando `len()` para verificar o tamanho das palavras e sobre a manipulação de strings. No segundo problema, aprendi a utilizar contadores e a trabalhar com lógica baseada em condições.
-
-Também aprendi a utilizar ferramentas importantes para quem está estudando tecnologia, como o Visual Studio Code e o GitHub. Foi a primeira vez que organizei arquivos de programação em um repositório, editei um README.md e utilizei o terminal para executar códigos.
-
-Além disso, percebi a importância da Inteligência Artificial como ferramenta de apoio ao aprendizado. Em vez de apenas buscar respostas prontas, utilizei a IA para compreender conceitos, esclarecer dúvidas e aprofundar meu entendimento sobre os problemas propostos.
-
-O principal aprendizado foi entender que a programação exige raciocínio lógico, interpretação e prática constante. Cada exercício resolvido aumentou minha confiança e mostrou que o aprendizado acontece passo a passo.
-
  
